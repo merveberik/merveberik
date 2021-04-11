@@ -14,7 +14,7 @@ C / Embedded Software / C++(Qt Creator) / C# / Python / Linux / MATLAB
 
 ## Know / Using 🧠
 
-<code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></a></code>
+<code><a href="https://visualstudio.microsoft.com/tr/" target="_blank"><img height="50" src="https://github.com/gilbarbara/logos/blob/master/logos/visual-studio.svg"></a></code>
 <code><a href="https://www.st.com/" target="_blank"><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/1/17/STMicroelectronics-Logo.svg"></a></code>
 <code><a href="https://www.qt.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></a></code>
 <code><a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
