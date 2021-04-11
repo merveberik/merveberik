@@ -19,7 +19,7 @@ C / Embedded Software / C++(Qt Creator) / C# / Python / Linux / MATLAB
 <code><a href="https://www.qt.io/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/qtio/qtio-icon.svg"></a></code>
 <code><a href="https://ubuntu.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-ar21.svg"></a></code>
 <code><a href="https://www.mathworks.com/" target="_blank"><img height="50" src="https://github.com/vscode-icons/vscode-icons/blob/master/icons/file_type_matlab.svg"></a></code>
-<code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.svg"></a></code>
+<code><a href="https://www.postman.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"></a></code>
 <code><a href="https://www.gitlab.com" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg"></a></code>
 
 
