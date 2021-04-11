@@ -4,7 +4,7 @@ My name is Merve Berik. I live in Turkey.
 
 ![Merve's GitHub Stats](https://github-readme-stats.vercel.app/api?username=merveberik&show_icons=true&theme=radical)
 
-## Job 👩🏻‍💻
+## Job 💻
 
 R&D Engineer
 
