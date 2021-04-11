@@ -8,7 +8,7 @@ My name is Merve Berik. I live in Turkey.
 
 R&D Engineer
 
-## Skills 💻
+## Skills 📝
 
 C / Embedded Software / C++(Qt Creator) / C# / Python / Linux / MATLAB
 
