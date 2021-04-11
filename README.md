@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi! Welcome to my github
+
+<img src="https://github.com/merveberik/merveberik/blob/main/logo.jpeg" width="auto">
+
+Skills: C /  / C++(Qt Creator) / C# / Python / Linux / MATLAB
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=merveberik&show_icons=true&theme=radical)
+
 
 <!--
 **merveberik/merveberik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
