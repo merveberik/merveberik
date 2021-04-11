@@ -24,7 +24,7 @@ C / Embedded Software / C++(Qt Creator) / C# / Python / Linux / MATLAB
 
 You can find and get touch with me on these accounts!
 
-[![Linkedin Badge](https://img.shields.io/badge/merveberik-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/merveberik/)
+[![Linkedin Badge](https://img.shields.io/badge/merveberik-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/merve-berik-791a08157/)
 
 
 <!--
